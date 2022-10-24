@@ -10,6 +10,7 @@
 ## My Socials:
 <a href='https://twitter.com/princeprafull3' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/Twitter-100000?style=flat-square&logo=twitter&logoColor=white&labelColor=00C5F7&color=00C5F7'/></a>
 <a href='https://www.linkedin.com/in/prince-prafull-19a477194/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=flat-square&logo=linkedin&logoColor=white&labelColor=1000FE&color=1000FE'/></a>
+<a href='https://medium.com/@princeprafull' target="_blank"><img alt='medium' src='https://img.shields.io/badge/medium-100000?style=for-the-badge&logo=medium&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ## My Tech Stack
