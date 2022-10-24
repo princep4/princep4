@@ -32,10 +32,7 @@
 - Wazuh SIEM
 - Threat Intelligence
 
-<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg"  width="60" height="60">
-<img src="https://pbs.twimg.com/profile_images/1050525448202067969/H3UBmbSb_400x400.jpg"  width="60" height="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/150px-Wireshark_icon.svg.png?20070521080724"  width="60" height="60">
-<img src="https://images.peerspot.com/image/upload/c_scale,f_auto,q_auto,w_80/wncbewgo5ngdugfrtrnkt0gskc2g.jpg"  width="60" height="60">
+<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg"  width="60" height="60"><img src="https://pbs.twimg.com/profile_images/1050525448202067969/H3UBmbSb_400x400.jpg"  width="60" height="60"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/150px-Wireshark_icon.svg.png?20070521080724"  width="60" height="60"><img src="https://images.peerspot.com/image/upload/c_scale,f_auto,q_auto,w_80/wncbewgo5ngdugfrtrnkt0gskc2g.jpg"  width="60" height="60">
 
 
 #### Others
